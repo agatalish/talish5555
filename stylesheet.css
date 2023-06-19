@@ -1,0 +1,117 @@
+
+
+header{
+background-color:black;
+color:white;
+font-size: 70px;
+padding: 30px;}
+nav{
+    background-color:gray;
+    color:blanchedalmond;
+    padding: 20px;
+    font-size: 30px;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    display: inline;
+    margin-right: 10px;
+}
+nav ul li a
+{
+    text-decoration: none;
+       color:white;}
+.asad{
+    font-size: 50px;
+}
+
+footer{
+    background-color: red;
+    color:black;
+    padding: 30px;
+    }
+
+.aaaaa{
+font-size: 70px;
+text-align: center;
+text-decoration: none;
+font-weight: bold;
+color: white;
+
+}
+.ho:hover{
+background-color: gold;
+
+}
+
+
+
+.ali {
+margin: 10px 400px;
+background-color: black;
+color:white;
+font-size: 50px;
+border:10px double white;
+}
+.ali a{
+    text-decoration: none;
+    color: white;
+}
+footer{
+background-color: aqua;
+text-align: center;
+padding: 10px;
+
+}
+.fa:hover{
+color:red ;
+background-color: blueviolet;
+}
+.ta:hover{
+color:orange;
+}
+.search{
+float: left;
+font-size: medium;
+width: 330px;
+}
+.srch{
+font-family: 'Times New Roman';
+width: 200px;
+height: 40px;
+background-color:darksalmon;
+border: 1px solid gold;
+color: aqua;
+border-right: none;
+font-size: 16px;
+float: left;
+padding: 30px;
+border-bottom-left-radius: 5px;
+border-top-left-radius: 5px;
+
+}
+.btn{
+background: #ff200f;
+width: 100px;
+height: 40px;
+margin-top: 13px;
+color: aliceblue;
+border-bottom-right-radius: 5px;
+font-size: 15px;
+margin-top: 13px;
+
+
+
+}
+.btn:focus{
+outline: none;
+
+
+}
+.srch:focus{
+outline: none;
+
+}
